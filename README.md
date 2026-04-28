@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Modern Portfolio Website
 
 A beautiful and responsive portfolio website built with Flask and modern CSS.
